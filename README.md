@@ -1,4 +1,4 @@
-# Hybrid Project Optimization in Chatroud
+# Hybrid Microgrid Optimization in Chatroud
 
 University project for calculating the optimal design of a microgrid system for Chatroud and Bootia factory. The design and size
 of the following parts are calculated and optimized:
